@@ -39,16 +39,12 @@ The system eliminates manual intervention by detecting vehicle number plates, va
 
 ## 📁 Project Structure
 
-
-
-Smart_Car_Parking/
-│
-├── entry_logic.py        # Entry gate logic + ANPR + DB insert
-├── exit_logic.py         # Exit gate logic + DB update
-├── hardware_code.txt    # Arduino code
-├── Entry_video.mp4      # Entry demo
-├── exit_video.mp4       # Exit demo
-└── README.md
+- **entry_logic.py** – Entry gate logic + ANPR + DB insert  
+- **exit_logic.py** – Exit gate logic + DB update  
+- **hardware_code.txt** – Arduino code  
+- **Entry_video.mp4** – Entry demo  
+- **exit_video.mp4** – Exit demo  
+- **README.md** – Project documentation  
 
 ## ⚙️ System Architecture
 
